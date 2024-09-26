@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.exe
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.deps.json
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.runtimeconfig.json
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.dll
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\bin\Debug\net8.0\SimplifiedFractions.pdb
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.AssemblyInfo.cs
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.dll
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\obj\Debug\net8.0\refint\SimplifiedFractions.dll
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.pdb
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\obj\Debug\net8.0\SimplifiedFractions.genruntimeconfig.cache
+C:\Users\User\Desktop\DanielHaMelech\Queue\SimplifiedFractions\obj\Debug\net8.0\ref\SimplifiedFractions.dll
